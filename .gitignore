@@ -67,6 +67,7 @@ docs/_build/
 target/
 
 # IPython Notebook
+scratch_nodtebooks/.ipynb_checkpoints/
 .ipynb_checkpoints
 
 # pyenv
@@ -88,3 +89,6 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# vscode config 
+.vscode/
