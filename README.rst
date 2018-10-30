@@ -1,12 +1,16 @@
-Sample Module Repository
+Python Package for Evidence Theory
 ========================
 
-This simple project is an example repo for Python projects.
+This package aims to:
+1. Implement belief, plausibility and disbelief calculation functionality.
+2. Implement the various state of the art combination rules used today.
+3. Demonstrate how ensemble classifiers can be built using belief functions.
+
+
+This simple project is based on an example repo for Python project by kennethreitz
 
 `Learn more <http://www.kennethreitz.org/essays/repository-structure-and-python>`_.
 
 ---------------
-
-If you want to learn more about ``setup.py`` files, check out `this repository <https://github.com/kennethreitz/setup.py>`_.
 
 ✨🍰✨
